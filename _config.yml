@@ -16,7 +16,11 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Java
+ - Java 8
+ - Microservices 
+ - Kotlin
+ - JUnit
+ - Docker
  - Spring MVC
  - Spring Boot
  - Maven
